@@ -50,9 +50,7 @@
                     <RowDefinition />
                 </Grid.RowDefinitions>
 
-                <!-- Места для добавления элементов управления -->
-
-                <!---->
+                <Button Content="Information" Grid.Row="8" HorizontalAlignment="Center" Click="Button_Click" Margin="0,3,0,4"/>
 
             </Grid>
         </Grid>
